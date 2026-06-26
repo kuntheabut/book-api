@@ -10,7 +10,7 @@ spec:
     matchLabels:
       app: book-api
   template:
-    metadata:
+    metadata:  
       labels:
         app: book-api
     spec:
